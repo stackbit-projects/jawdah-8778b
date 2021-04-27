@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: نظام الاعتماد الاكاديمي
+    title: نظام الاعتماد الاكاديمي الأول
     actions:
       - label: Learn More
         url: /features
