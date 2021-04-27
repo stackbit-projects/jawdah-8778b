@@ -11,11 +11,6 @@
                 "style": "link"
             },
             {
-                "label": "Blog",
-                "url": "/blog",
-                "style": "link"
-            },
-            {
                 "label": "من نحن",
                 "url": "/about",
                 "style": "link"
